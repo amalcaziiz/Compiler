@@ -1,0 +1,3 @@
+// Semantic Error
+int x;
+x = "Hello"; // Error: Cannot assign string to integer
